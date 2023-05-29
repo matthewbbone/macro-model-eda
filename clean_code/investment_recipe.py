@@ -404,7 +404,6 @@ def create_oecd_matrix(bea_matrix, oecd_bea, bea_total_exp, chemical_split):
     for key, val in oecd_bea.items():
         ind = ind + val
 
-
     industries = list(bea_matrix.columns)
     sectors = list(oecd_bea.keys())
 
