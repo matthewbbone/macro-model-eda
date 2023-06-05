@@ -47,9 +47,11 @@ def icio_international(icio_path, recipe_df, countries, country_sector_names):
         for j, j_cou in enumerate(countries):
 
             rows = gfcf_df.index.where(gfcf_df.index.map(lambda x: i_cou in x and not "TAXSUB" in x)).dropna()
+            rows = rows[rows.map(lambda x: x in country_sector_names)]
+
             cols = gfcf_df.columns.where(gfcf_cols.map(lambda x: j_cou in x and not "TAXSUB" in x)).dropna()
 
-            international_flows[i,j] = gfcf_df.loc[rows, cols].sum(axis=0,skipna=True).sum(axis=0,skipna=True)
+            international_flows[i,j] = gfcf_df.loc[rows, cols].sum().sum()
 
             international_matrix[i*n_sec:(i+1)*n_sec, j*n_sec:(j+1)*n_sec] = recipe_df.values * international_flows[i,j]
     
@@ -76,14 +78,9 @@ def icio_international_series(icio_folder, oecd_bea, oecd_recipe, years):
 
     icio_df = pd.read_csv(f"{icio_folder}/ICIO2021_{years[0]}.csv")
     gfcf_cols = icio_df.columns[icio_df.columns.map(lambda x: "GFCF" in x)]
-    countries = gfcf_cols.map(lambda x: x.split("_")[0])
-    country_sector_names = []
+    countries, country_sectors = get_countries(icio_folder, oecd_bea)
 
-    for cou in countries:
-        for sec in temp_recipe.columns:
-            country_sector_names.append(cou + "_" + sec)
-
-    n_country_sectors = len(list(oecd_bea.keys())) * len(countries)
+    n_country_sectors = len(country_sectors)
     international_flow_series = np.zeros((len(years), len(countries), len(countries)))
     international_matrix_series = np.zeros((len(years), n_country_sectors, n_country_sectors))
     for t in tqdm(range(len(years))):
@@ -91,7 +88,7 @@ def icio_international_series(icio_folder, oecd_bea, oecd_recipe, years):
         temp_recipe.columns = list(oecd_bea.keys())
         temp_recipe.index = list(oecd_bea.keys())
         international_flow_series[t,:,:], international_matrix_series[t,:,:] = \
-            icio_international(f"{icio_folder}/ICIO2021_{years[t]}.csv", temp_recipe, countries, country_sector_names)
+            icio_international(f"{icio_folder}/ICIO2021_{years[t]}.csv", temp_recipe, countries, country_sectors)
         
     return international_flow_series, international_matrix_series
 

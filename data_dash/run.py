@@ -8,7 +8,7 @@ import colorlover
 
 def country_code_switch(codes):
 
-    c_map = pd.read_csv("raw_data/codes.csv")
+    c_map = pd.read_csv("raw_data/notation/wikipedia-iso-country-codes.csv")
 
     c_map.loc[len(c_map)] = [
         "Greece",

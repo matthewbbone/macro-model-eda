@@ -5,3 +5,7 @@ investmentNetwork
 dataloader
 *.png
 vomlehn_winberry
+*.edEnv
+__pycache__
+.lprof
+data_dash/raw_data

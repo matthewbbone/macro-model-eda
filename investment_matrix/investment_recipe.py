@@ -428,15 +428,15 @@ def create_oecd_matrix(bea_matrix, oecd_bea, bea_total_exp, chemical_split):
     # column-wise normalization
     # res = normalize(res, axis = 0, norm='l1')
 
+    # fix chemical split
+    res[:, sectors.index("20")] = res[:, sectors.index("20")] * chemical_split
+    res[:, sectors.index("21")] = res[:, sectors.index("21")] * (1 - chemical_split)
+
     res = res / res.sum()
 
     res = pd.DataFrame(res)
     res.index = sectors
     res.columns = sectors
-
-    # fix chemical split
-    res.loc[:, "20"] = res.loc[:, "20"] * chemical_split
-    res.loc[:, "21"] = res.loc[:, "21"] * (1 - chemical_split)
 
     res = res[np.sort(sectors)]
     res.sort_index(inplace=True)
@@ -450,7 +450,7 @@ def create_oecd_matrix_series(bea_matrix, oecd_bea, bea_total_exp, chemical_spli
         temp_bea = pd.DataFrame(bea_matrix[t,:,:])
         temp_bea.columns = sectors
         temp_bea.index = sectors
-        recipe_series[t,:,:] = create_oecd_matrix(temp_bea, oecd_bea, bea_total_exp[years[t]], chemical_split[years[t]])
+        recipe_series[t,:,:] = create_oecd_matrix(temp_bea, oecd_bea, bea_total_exp[years[t]], chemical_split[years[t]]).values
 
     return recipe_series
 
