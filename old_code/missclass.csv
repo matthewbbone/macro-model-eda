@@ -1,0 +1,1030 @@
+,NAICS2012Code,NAICS2012Part,ISIC4Code,ISIC4Part,Detail
+0,111419,-1,0322,-1,seaweed grown under cover
+1,111998,-1,1072,-1,maple sugars and syrups produced in a separate central facility
+2,112511,-1,0321,-1,saltwater finfish farming and hatcheries
+3,112511,-1,0322,-1,freshwater finfish farming and hatcheries
+4,112512,-1,0321,-1,saltwater shellfish farming including production of cultured pearls
+5,112512,-1,0322,-1,freshwater shellfish farming
+6,112519,-1,0321,-1,"saltwater alligator, frog, algae, seaweed, turtle, worm, snake, and other animal aquaculture n.e.c."
+7,112519,-1,0322,-1,"freshwater alligator, frog, algae, seaweed, turtle, worm, snake and other animal aquaculture n.e.c."
+8,113110,0,0210,-1,operating timber tracts
+9,113210,-1,0210,-1,except gathering forest products in the wild
+10,113210,-1,0230,-1,gathering forest products in the wild
+11,113310,-1,0220,0,except separate log hauling in the forest and production of wood chips in the forest
+12,113310,-1,0240,-1,separate log hauling in the forest without logging
+13,114210,0,0170,0,
+14,115111,0,0163,-1,
+15,115112,0,0161,-1,
+16,115113,0,0161,-1,
+17,115114,-1,0163,-1,except seed processing
+18,115114,-1,0164,0,seed processing
+19,115115,0,0161,-1,
+20,115116,-1,0161,-1,crop farm management services - running a farm on a contract or fee basis
+21,115116,-1,0162,-1,animal farm management services - running a farm on a contract or fee basis
+22,115210,-1,0162,-1,except vaccinating livestock not performed by veterinarians
+23,115310,0,0240,-1,
+29,113310,-1,1610,-1,"production of wood chips in the forest, portable chipper mills"
+40,115210,-1,7500,-1,vaccinating livestock not performed by veterinarians
+49,311710,-1,0311,-1,"gathering & processing of seafood into fresh, frozen, or canned seafood in factory ships (i.e. factory ships that also fish)"
+50,212111,0,0520,-1,
+51,212112,0,0520,-1,
+52,212113,0,0510,-1,
+56,311942,-1,0893,-1,mining and processing of table salt
+57,213113,-1,4312,-1,overburden removal for coal mining
+58,213114,-1,4312,-1,"overburden removal for ferrous metal mining, performed on a contract or fee basis"
+59,213115,-1,4312,-1,"overburden removal for nonmetallic mining, performed on a contract or fee basis"
+60,488999,-1,0910,-1,liquefaction of natural gas at the mine site
+61,311213,0,1103,-1,
+64,312111,0,1104,-1,
+65,312112,0,1104,-1,
+66,312113,0,3530,-1,
+67,312120,0,1103,-1,
+68,312130,-1,1101,-1,brandies and fruit spirits
+69,312130,-1,1102,0,except brandies and fruit spirits
+70,312140,-1,1101,-1,except potable ethyl alcohol
+71,312140,-1,2011,-1,manufacture of potable ethyl alcohol
+73,313210,-1,1420,-1,artificial fur on woven base
+74,313240,-1,1420,-1,artificial fur on knit base
+75,313320,-1,2219,-1,rubberized fabric
+76,314120,-1,2220,-1,plastics shower curtains and table cloths made from purchased materials
+77,314910,-1,2220,-1,plastics blanket bags - heat seamed
+78,314999,-1,1410,-1,cloth diapers
+79,315990,-1,1399,-1,"hat, cap, apparel, umbrella, and similar trimmings made from purchased fabrics"
+80,316110,0,1511,0,
+81,316210,0,1520,-1,
+82,316992,0,1512,-1,
+83,316998,-1,1512,-1,"except leather garments and leather footwear cut stock (uppers, soles, etc.)"
+84,316998,-1,1520,-1,"footwear cut stock (uppers, soles, etc.)"
+85,322220,-1,1399,-1,pressure-sensitive cloth tape
+86,323113,-1,1313,-1,"screen printing on made up textile products, including apparel"
+87,335129,-1,1399,-1,incandescent mantles
+88,336360,-1,1392,-1,"automobile motor vehicle interior systems (headliners, panels ), seat belts, tire covers and seat covers made from purchased fabrics"
+89,336360,-1,1399,-1,automotive trimmings
+90,337920,-1,1392,-1,"except wooden blinds and drapery rods, plastics shades and drapery rods, metal drapery rods, and metal shades and blinds"
+91,339940,-1,1399,-1,artists' canvas boards and tracing cloth
+92,339991,-1,1399,-1,textile gaskets
+93,339991,-1,1512,-1,leather gaskets
+94,561990,-1,1313,-1,"cloth cutting, winding, or bolting for the trade"
+95,315110,0,1430,-1,
+96,315190,0,1430,-1,
+97,315210,-1,1410,-1,cutting and sewing contractors except for fur apparel
+98,315210,-1,1420,-1,cutting and sewing contractors for fur apparel
+99,315220,0,1410,-1,
+100,315240,-1,1410,-1,except artificial fur coats
+101,315240,-1,1420,-1,cut and sew artificial fur coats
+102,315280,-1,1410,-1,except fur apparel
+103,315280,-1,1420,-1,fur apparel (except hats)
+104,315990,-1,1410,-1,"except fur gloves and mittens; rubber bathing caps and aprons; and hat, cap, umbrella, and similar trimmings made from purchased fabrics"
+105,315990,-1,1420,-1,fur gloves and mittens
+106,315990,-1,2219,-1,rubber bathing caps and aprons
+107,316998,-1,1410,-1,leather industrial work accessories; protective leather garments
+108,313110,0,1311,-1,
+109,313210,-1,1312,0,except artificial fur on woven base
+110,313220,0,1399,-1,
+111,313230,0,1399,-1,
+112,313240,-1,1391,0,
+113,313240,-1,1399,-1,"lace and lace products except knit lace, except finishing"
+114,313310,-1,1311,-1,preparation of fibers
+115,313310,-1,1313,-1,except preparation of fibers
+116,313320,-1,1313,-1,except rubberizing fabric
+117,314110,0,1393,-1,
+118,314120,-1,1392,-1,except plastics shower curtains and table cloths made from purchased materials
+119,314910,-1,1392,-1,except plastics blanket bags
+120,314910,-1,1512,-1,plastics blanket bags - sewn
+121,314994,-1,1394,-1,
+122,314994,-1,1399,-1,
+123,314999,-1,1311,-1,processing textile mill waste
+124,314999,-1,1313,-1,"embroidery, decorative stitching, dyeing, etc. on textile articles and apparel"
+125,314999,-1,1392,-1,"miscellaneous textile products, such as dust cloths, sleeping bags, etc."
+126,314999,-1,1393,-1,"rug binding for the trade and carpet cutting, carpets made from purchased fabric"
+127,314999,-1,1394,-1,knotted rope net products made from purchased rope
+128,314999,-1,1399,-1,"bats, batting, upholstery filling, textile fire hose, and similar industrial textile products; powder puffs and mitts"
+139,321999,-1,2220,-1,plastic shoe lasts
+140,321999,-1,3100,-1,"wood television, radio, and sewing machine cabinet manufacturing"
+142,324199,-1,1629,-1,fire logs made of pressed wood and purchased refined petroleum binders
+143,337215,-1,1622,-1,wood partitions (except free standing)
+144,337920,-1,1629,-1,wooden window blinds and curtain and drapery rods and fixtures
+145,339940,-1,1629,-1,frames for artists' canvases
+146,339950,-1,1629,-1,wooden signs
+147,339991,-1,1629,-1,cork gaskets
+148,339999,-1,1629,-1,wooden mirror and picture frames
+149,322121,-1,2399,-1,tar paper made in paper mills
+151,322220,-1,2220,-1,"vinyl wallpaper, plastic wallpaper, plastics self-adhesive tape"
+152,322220,-1,2420,-1,"aluminum foil laminates made from purchased aluminum, foil as primary component; precious metal foil laminates made from purchased foil; laminating purchased foil and paper for packaging uses, foil as primary component"
+153,322220,-1,2599,-1,foil bag manufacturing
+154,323111,-1,1709,-1,except printing only of looseleaf fillers and looseleaf binding fittings
+155,323111,-1,1811,-1,"lithographic, gravure, flexographic, digital, quick, and other commercial printing, except screen and books; printing manifold business forms and looseleaf fillers"
+156,323113,-1,1811,-1,except screen printing on made up textile products and apparel
+157,323117,0,1811,-1,
+158,323120,0,1812,0,
+159,332992,-1,1709,-1,ammunition wads
+160,334614,0,1820,0,
+161,339940,-1,1701,-1,bulk carbon paper or stencil paper in rolls or large sheets
+162,339940,-1,1709,-1,"ready to use carbon paper, duplicator stencils, etc."
+163,339950,-1,1811,-1,"printing plastic, wood, glass, etc. signs"
+164,339991,-1,1709,-1,paper or paperboard gaskets made from purchased paper
+165,323111,-1,2599,-1,looseleaf binding fittings
+166,323111,-1,8219,-1,"quick printing combined with photocopy services, photocopy primary"
+168,322110,0,1701,-1,
+169,322121,-1,1701,-1,paper mills
+170,322121,-1,1702,-1,corrugated paper or paperboard or containers made in paper mills
+171,322121,-1,1709,-1,manufacture of other articles of paper in paper mills
+172,322122,0,1701,-1,
+173,322130,-1,1701,-1,paperboard
+174,322130,-1,1702,-1,corrugated paperboard or containers made in paperboard mills
+175,322130,-1,1709,-1,manufacture of other articles of paper in paperboard mills
+176,322211,0,1702,-1,
+177,322212,0,1702,-1,
+178,322219,-1,1702,-1,"except cones, bobbins, spools, paper cups, dishes, straws, etc. made from purchased paper or paperboard"
+179,322219,-1,1709,-1,"cones, bobbins, spools, paper cups, dishes, straws, etc. made from purchased paper or paperboard"
+180,322220,-1,1701,-1,"laminating purchased foil and purchased paper, paper as primary component; coating and laminating paper for other than packaging uses; coating purchased paperboard"
+181,322220,-1,1702,-1,except foil bag manufacturing
+182,322220,-1,1709,-1,"labels, gummed stock (including printing done at the same establishment), wallpaper, paper pressure sensitive tape, and chipboard, coated or laminated, made from purchased paperboard"
+183,322230,0,1709,-1,
+184,322291,0,1709,-1,
+185,322299,-1,1701,-1,crepe paper (or crinkling paper) made from purchased paper
+186,322299,-1,1702,-1,die-cut paper products (except office use) made from purchased paper or paperboard
+187,322299,-1,1709,-1,except crepe paper and die-cut paper products (except office use) made from purchased paper
+194,324121,0,2399,-1,
+195,324122,0,2399,-1,
+197,325110,-1,1920,-1,manufacture of paraffin and similar from purchased refined petroleum in petrochemical plants
+198,325194,-1,1910,-1,coal tar distillates
+201,325199,-1,2100,-1,salicylic acid (nonmedicinal)
+202,325220,-1,2220,-1,cellophane film or sheet
+203,325411,0,2100,-1,
+204,325412,0,2100,-1,
+205,325413,-1,2100,-1,except diagnostic reagents
+206,325414,0,2100,-1,
+207,325992,-1,2817,-1,toner cartridges
+208,325998,-1,2399,-1,drilling mud compounds
+209,325998,-1,8292,-1,aerosol packaging
+211,332992,-1,2029,-1,small arms percussion caps and primers
+212,332993,-1,2029,-1,"detonators, fuses, and primers for ammunition"
+213,332999,-1,2023,-1,soap impregnated metal scouring pads
+214,339940,-1,2022,-1,artists' paints and colors
+215,339999,-1,2023,-1,potpourri
+217,325110,-1,2011,-1,except manufacture of paraffin and similar from purchased refined petroleum in petrochemical plants
+218,325120,0,2011,-1,
+219,325130,0,2011,-1,
+220,325180,-1,2011,-1,"except ammonium chloride and other ammonium compounds not specified elsewhere, potassium nitrate, etc."
+221,325180,-1,2012,-1,"ammonium chloride and other ammonium compounds not specified elsewhere, potassium nitrate, etc."
+222,325193,0,2011,-1,
+224,325194,-1,2011,-1,except prepared water pigments for finishing leather and coal tar distillates
+225,325194,-1,2022,-1,prepared water pigments for finishing leather
+226,325199,-1,2011,-1,"except synthetic plasticizer compounds, synthetic accelerators, synthetic essential oils, naphthenic acid soaps, and salicylic acid (nonmedicinal)"
+227,325199,-1,2029,-1,"synthetic plasticizer compounds, synthetic accelerators, synthetic essential oils, naphthenic acid soaps"
+228,325211,0,2013,-1,
+229,325212,0,2013,-1,
+230,325220,-1,2030,0,except cellophane film or sheet
+232,325311,0,2012,-1,
+233,325312,-1,2011,-1,phosphoric acid
+234,325312,-1,2012,-1,except phosphoric acid
+235,325314,0,2012,-1,
+236,325320,0,2021,-1,
+237,325413,-1,2029,-1,diagnostic reagents
+238,325510,0,2022,-1,
+239,325520,-1,2022,-1,except glues
+240,325520,-1,2029,-1,glues
+241,325611,0,2023,-1,
+242,325612,-1,2011,-1,household lye
+243,325612,-1,2021,-1,household and industrial disinfectants
+244,325612,-1,2023,-1,"except household and industrial disinfectants, household lye, and laundry starch"
+245,325612,-1,2029,-1,laundry starch
+246,325613,-1,2023,-1,"except leather and textile finishing agents, mordants"
+247,325613,-1,2029,-1,"leather and textile finishing agents, mordants"
+248,325620,0,2023,-1,
+249,325910,0,2022,-1,
+250,325920,0,2029,-1,
+251,325991,0,2013,-1,
+252,325992,-1,2029,-1,except toner cartridges
+254,325998,-1,2011,-1,distilled water
+255,325998,-1,2022,-1,textile dye preparations and other household dye or tinting preparations (except hair)
+256,325998,-1,2023,-1,incense and engine degreasers
+257,325998,-1,2029,-1,"except distilled water, textile dye preparations, household dye (except hair) drilling mud compounds, and aerosol packaging"
+260,339113,-1,2100,-1,"surgical dressings, surgical sutures, etc., medicated"
+261,326199,-1,2720,-1,plastics battery separators
+262,326199,-1,2920,-1,plastics air cargo containers
+263,326199,-1,3100,-1,"plastics counter tops, not fabricated at the construction site"
+264,326299,-1,2720,-1,rubber battery separators
+272,332913,-1,2220,-1,plastics plumbing fixture fittings and trim
+273,336360,-1,2220,-1,plastic motor vehicle interior panels and trim
+274,337215,-1,2220,-1,"finished plastic furniture parts (e.g., frames)"
+275,337910,-1,2219,-1,rubber waterbed mattresses
+276,337910,-1,2220,-1,plastic waterbed mattresses
+277,337920,-1,2220,-1,"plastic shades, blinds (e.g., miniblinds), and plastics hardware for hanging shades, blinds, and drapery"
+278,339920,-1,2219,-1,rubber wet suits and diving suits
+279,339950,-1,2220,-1,"blanks for plastic name plates, plastic letters for signs"
+280,339991,-1,2219,-1,"except textile, leather, cork, paper, plastic, nonmetallic mineral and multimaterial laminated gaskets"
+281,339991,-1,2220,-1,plastic gaskets
+282,339999,-1,2220,-1,miscellaneous plastic items
+283,327999,-1,3211,-1,manufacturing and working but not setting synthetic precious or semiprecious stones for jewelry uses
+288,335991,-1,2399,-1,carbon and graphite fibers and products (except electrodes and electrical applications)
+289,336340,-1,2399,-1,asbestos based brake linings
+290,336350,-1,2399,-1,asbestos based clutch facings
+291,339991,-1,2399,-1,nonmetallic mineral gaskets
+292,453998,-1,2396,-1,custom finishing and lettering of tombstones
+293,331222,-1,2599,-1,"wire products except steel wire, steel wire shopping carts made in drawing plants, and insulated steel wire to be used as a conductor"
+294,331222,-1,2732,-1,"insulated steel cable capable of being used as a conductor, made in steel wire drawing plants"
+295,331222,-1,3099,-1,shopping carts made in wire drawing plants
+296,331318,-1,2599,-1,"aluminum wire products, made in drawing plants"
+297,331318,-1,2732,-1,"insulated aluminum wire capable of being used as a conductor, made in wire drawing plants"
+298,331420,-1,2599,-1,"copper mechanical wire products made in drawing mills, except drawing copper wire from purchased wire and drawing and insulating copper wire capable of being used as a conductor"
+299,331420,-1,2732,-1,insulated copper wire made in integrated secondary smelting and drawing plants or made from purchased copper in drawing plants
+300,331491,-1,2599,-1,other nonferrous wire products made in drawing plants
+301,331511,-1,2823,-1,rolling mill rolls and steel ingot molds
+303,332912,-1,2410,-1,ferrous fluid power hose fittings made from purchased ferrous materials
+304,332912,-1,2420,-1,fluid power hose fittings made from purchased nonferrous metal
+305,332913,-1,2420,-1,"copper pipe fittings (such as copper elbows, unions, and compression fittings)"
+306,332919,-1,2410,-1,"flanges, unions, and other pipe fittings made from purchased pipe"
+307,332996,-1,2410,-1,"fabricated metal pipe fittings made from purchased pipe, steel"
+308,332996,-1,2420,-1,pipe and pipe fittings made from purchased other nonferrous metal pipe
+309,332999,-1,2420,-1,miscellaneous nonferrous metal foil made from purchased foil
+310,332215,-1,3290,-1,kitchen hand sieves
+311,332216,-1,2790,-1,electric hand held soldering irons and soldering guns
+312,332216,-1,2816,-1,jacks (except hydraulic and pneumatic)
+313,332216,-1,2819,-1,"levels, tape measures and similar hand tools, machinists' precision tools (except optical)"
+314,332216,-1,2821,-1,"non-powered lawn mowers (e.g., rotary push mowers)"
+315,332312,-1,3011,-1,prefabricated ship and barge sections
+316,332312,-1,3012,-1,prefabricated boat sections
+317,332313,-1,2816,-1,laminated crane hooks
+318,332313,-1,2823,-1,ladle bails
+319,332313,-1,3011,-1,fabricated metal plate buoys
+320,332410,-1,2819,-1,heat exchangers
+321,332420,-1,2819,-1,"industrial autoclaves, fractioning columns, gas absorbers"
+322,332420,-1,2823,-1,"ladles, annealing pots, smelting pots, retorts, etc. for metallurgy"
+323,332420,-1,2920,-1,heavy gauge containers for one or more modes of transportation including tanks for tanker trailers
+324,332439,-1,2920,-1,"air cargo containers, light gauge metal"
+325,332618,-1,3290,-1,other hand sieves manufacturing
+326,332911,0,2813,-1,
+329,332912,-1,2812,-1,except ferrous and nonferrous fluid power hose fittings
+332,332913,-1,2813,-1,except plastics plumbing fixture fittings and trim and copper pipe fittings
+334,332919,-1,2813,-1,"aerosol valves, hose nozzles (fire and garden), inline plumbing and heating valves (stops, cut-off etc.)"
+335,332919,-1,2819,-1,lawn sprinklers
+336,332991,0,2814,-1,
+350,333120,-1,2593,-1,construction and surface mining drill bits
+351,333131,-1,2593,-1,underground mining drill bits
+352,333414,-1,2512,-1,central heating boilers and radiators
+353,333511,0,2593,-1,
+354,333514,-1,2593,-1,"except jigs, fixtures, and similar noncutting machine tool accessories"
+355,333515,-1,2593,-1,"except noncutting accessories, such as work holders, dividing heads, and other special attachments for machine tools"
+356,333992,-1,2599,-1,welding rods and electrodes
+357,333999,-1,2599,-1,"industrial bellows, weather vanes"
+358,336370,0,2591,-1,
+359,337215,-1,2511,-1,"room partitions for floor attachment, metal"
+360,337920,-1,2593,-1,drapery and curtain rods and hardware
+361,337920,-1,2599,-1,metal blinds
+362,339910,-1,2592,-1,"industrial engraving on precious metal; engraving (including laser) and etching precious jewelry; engraving (including laser), etching or chasing precious or precious clad hollowware and silverware"
+363,339910,-1,2599,-1,"personal goods (cigar and cigarette cases, coin purses, compacts, etc.) of base metal and of base metal plated with precious metal"
+364,339950,-1,2599,-1,metal signs and metal sign letters
+365,339993,-1,2599,-1,"buckles, hooks, clasps, and similar"
+366,339999,-1,2599,-1,metal picture frames
+367,334220,-1,3030,-1,satellites
+368,334290,-1,2790,-1,"signaling equipment, such as traffic and pedestrian signaling equipment, sirens"
+369,334290,-1,3020,-1,"electromechanical signaling, safety, and traffic control equipment (such as railroad crossing equipment)"
+371,333314,0,2670,-1,
+372,333316,-1,2670,-1,"digital cameras; except duplicating, blueprinting, and photocopy machinery"
+373,333997,-1,2651,-1,"laboratory scales and balances, incubators, and miscellaneous measuring devices for laboratories"
+374,339930,-1,2640,-1,video game consoles (dedicated games)
+383,333318,-1,2790,-1,electrical teaching machines (except flight simulators)
+384,333618,-1,2790,-1,electric outboard motors
+385,333992,-1,2710,-1,arc welding transformers
+386,333992,-1,2790,-1,"welding, soldering, and brazing equipment, electrical"
+388,336320,-1,2740,-1,
+389,339950,-1,2790,-1,"except wooden, plastic, and metal nonelectric signs"
+390,333112,-1,3099,-1,garden wagons
+393,333131,-1,3020,-1,mining rail cars
+394,333249,-1,3250,-1,laboratory distilling apparatus
+398,333318,-1,3030,-1,flight simulators - type specific
+399,333318,-1,3290,-1,mechanical carpet sweepers
+405,333618,-1,2910,-1,automotive diesel engines
+406,333618,-1,3091,-1,motorcycle engines
+407,333923,-1,3020,-1,locomotive cranes
+408,333924,-1,3099,-1,"grocery carts made from purchased wire, and similar"
+414,333999,-1,3250,-1,laboratory centrifuges
+431,336211,-1,2816,-1,dump truck lifting mechanisms and tail gate loaders
+432,336310,-1,2811,-1,
+433,336310,-1,2813,-1,pumps for mounting on internal combustion engines
+434,336320,-1,2813,-1,electric fuel pumps
+435,336330,-1,2813,-1,power steering pumps
+436,336340,-1,2813,-1,brake master cylinders - hydraulic pumps
+437,336390,-1,2813,-1,motor vehicle air-conditioning compressors
+438,336390,-1,2819,-1,"filters, automotive type including fuel, oil, air, etc.; except individual air-conditioning compressors"
+439,336412,-1,2813,-1,pumps used on aircraft engines
+440,339113,-1,2813,-1,laboratory pumps (vacuum pumps and similar)
+441,339920,-1,2829,-1,bowling alley equipment (pin setters and ball return equipment)
+442,339940,-1,2817,-1,"staplers, hand-held punches, labelers, and similar office machinery, blackboards, whiteboards"
+443,339940,-1,2819,-1,artists' air brushes
+444,339991,-1,2819,-1,gaskets and sealing devices of a combination of materials or laminates of the same material
+445,339993,-1,2826,-1,"sewing needles, household or commercial"
+446,339999,-1,2819,-1,fire extinguishers
+459,336360,-1,3011,-1,ship and floating structure seats
+460,336360,-1,3020,-1,railway equipment seats
+461,336360,-1,3030,-1,aircraft seats
+469,336510,-1,2910,-1,trackless trolley buses (electric power from overhead or underground wires)
+470,336999,-1,2910,-1,"except ATV, snowmobile, and golf cart parts; personal watercraft, and animal drawn vehicles"
+471,336999,-1,2930,-1,"ATV, snowmobile, and golf cart parts"
+472,811121,-1,2920,-1,"custom fabrication of trailer bodies in a shop rather than on a factory basis, custom conversion of vans in a shop rather than a factory"
+475,336611,-1,3315,-1,repair and maintenance performed in a shipyard
+493,339113,-1,3092,-1,wheel chairs
+494,339930,-1,3092,-1,baby carriages and strollers
+495,339112,0,3250,-1,
+499,339113,-1,3250,-1,"except medicated surgical dressings, laboratory pumps, wheel chairs, and personal safety devices"
+500,339113,-1,3290,-1,personal safety devices
+501,339114,0,3250,-1,
+502,339115,0,3250,-1,
+503,339116,0,3250,-1,
+506,339910,-1,3211,-1,"except engraving, chasing, or etching on precious jewelry, metal, or clad hollowware and silverware"
+507,339910,-1,3212,0,except personal goods of base metal or base metal plated with precious metal
+510,339920,-1,3220,-1,game calls (mouth blown signaling instruments)
+511,339920,-1,3230,-1,"except game calls, wet suits, bowling alley equipment, and pool tables and related equipment"
+512,339920,-1,3240,-1,billiard and pool tables and equipment
+515,339930,-1,3230,-1,"miscellaneous sporting toys (wiffle ball bats, other)"
+516,339930,-1,3240,-1,"except sporting toys, baby carriages, strollers, and dedicated video game consoles"
+524,339940,-1,3290,-1,"except artists' canvas boards, canvas frames, hand-held office machines, artists' air brushes, and carbon paper"
+538,339992,0,3220,-1,
+541,339993,-1,3290,-1,"except metal buckles, hooks, and similar, and sewing needles"
+542,339994,0,3290,-1,
+543,339995,0,3290,-1,
+544,339999,-1,1410,-1,hair nets
+550,339999,-1,3220,-1,music boxes and whistles
+551,339999,-1,3240,-1,"coin operated game machines, puppets, slot machines"
+552,339999,-1,3290,-1,"except coin operated game machines, puppets, slot machines, music boxes, whistles, fire extinguishers, picture frames, hair nets, potpourri, and miscellaneous plastics items"
+553,238220,-1,3320,-1,industrial furnace and power boiler installation
+554,238290,-1,331,0,"ISIC group level link - servicing, repair and maintenance of miscellaneous building equipment performed by millwrights and machine rigging contractors"
+555,238290,-1,3320,-1,installation of industrial machinery and equipment by specialty contractors
+559,337110,0,3100,-1,
+560,337121,0,3100,-1,
+561,337122,0,3100,-1,
+562,337124,0,3100,-1,
+563,337125,0,3100,-1,
+564,337127,-1,3100,-1,except hydraulic beauty and barber chairs
+565,337211,0,3100,-1,
+566,337212,0,3100,-1,
+567,337214,0,3100,-1,
+568,337215,-1,3100,-1,"except wood partitions, finished plastics furniture parts, and metal room partitions"
+569,337910,-1,3100,-1,except rubber and plastic waterbed mattresses
+570,441222,-1,3315,-1,"retail and repair of new boats, primarily repair"
+571,443142,-1,3313,-1,"retail and repair of cameras combined, repair as primary source of receipts"
+572,488190,-1,3315,-1,"except non-repair services, such as aircraft testing services"
+573,488210,-1,3315,-1,repairing locomotives and railroad cars (except factory rebuilding or factory conversion)
+574,488390,-1,3315,-1,"ship scaling not done in shipyards, repairs and routine maintenance performed by floating dry-docks"
+575,711510,-1,3319,-1,restoration services for organs and similar instruments
+576,811211,-1,3313,-1,camera repair shops
+577,811212,-1,3312,-1,repair of office machinery (except computers) and repair of dictating machines
+578,811212,-1,3313,-1,repair of digital cameras
+579,811213,-1,3313,-1,repair of GPS devices
+580,811219,-1,3312,-1,weighing equipment repair and maintenance
+581,811219,-1,3313,-1,except repair and maintenance of weighing equipment
+582,811310,-1,3311,-1,fabricated metal products
+583,811310,-1,3312,-1,"except fabricated metal products, pulse generators, electrical equipment, shopping carts, trailers, other equipment, such as fishing nets, fertilizer bags, plastics and rubber products, non-metallic mineral products, commercial timing mechanisms, repair of trailers, and cleaning of industrial machinery"
+584,811310,-1,3313,-1,repair of pulse generators
+585,811310,-1,3314,0,repair of electrical equipment
+586,811310,-1,3315,-1,repair of shopping carts
+587,811310,-1,3319,-1,"repair of miscellaneous commercial and industrial equipment, such as fishing nets, fertilizer bags, plastics and rubber products, non-metallic mineral products, parking meters, and commercial timing mechanisms"
+588,811411,-1,3312,-1,"repair of power tools,  hand-held type"
+589,811490,-1,3311,-1,gun repair
+590,811490,-1,3312,-1,repair of bowling alley equipment
+591,811490,-1,3315,-1,"pleasure boat repair and maintenance services (not also selling new boats), repair of animal drawn vehicles"
+592,811490,-1,3319,-1,"repair of pin ball machines and other coin-operated games, and similar equipment"
+593,337127,-1,3250,-1,hydraulic type beauty and barber chairs
+633,221310,-1,3600,0,except long distance water pipelines
+634,221310,-1,4930,-1,water pipelines (long distance)
+635,221320,0,3700,-1,
+637,562111,0,3811,-1,
+638,562112,0,3812,0,
+639,562119,0,3811,-1,
+640,562211,0,3822,0,
+641,562212,0,3821,-1,
+642,562213,0,3821,-1,except treatment and filtration of nonhazardous industrial waste water (not part of sewer system)
+643,562219,-1,3700,-1,treatment and filtration of nonhazardous industrial waste water (not part of sewer system)
+644,562219,-1,3821,-1,
+645,562920,0,3830,-1,
+646,562991,0,3700,-1,
+647,562998,0,3700,-1,
+649,236210,-1,4290,-1,chemical plant construction
+650,236220,-1,4290,-1,stadium construction
+651,237110,0,4220,-1,
+652,237120,-1,4220,-1,except refinery construction
+653,237120,-1,4290,-1,refinery construction
+654,237130,0,4220,-1,
+655,237210,0,4290,-1,
+656,237310,-1,4210,-1,except traffic signaling and highway lighting installation contractors
+657,237990,-1,4210,-1,"construction of tunnels, subways, and railroads"
+658,237990,-1,4220,-1,construction of hydroelectric generating facilities
+659,237990,-1,4290,-1,"marine construction projects, ski lift construction, outdoor recreational facility construction including athletic fields, golf courses, playgrounds, tennis courts, and similar"
+661,238220,-1,8129,-1,"boiler chipping, cleaning, and scaling"
+664,238990,-1,4210,-1,"interlocking block walkways, driveways, patios, etc."
+668,561790,-1,4390,-1,power washing and other exterior cleaning
+669,423120,-1,4659,-1,engine testing equipment
+670,423120,-1,4663,-1,mechanics' hand tools
+671,423210,-1,4649,-1,household furniture
+672,423210,-1,4659,-1,except household furniture
+673,423220,-1,4641,-1,"linens (bed, bath, table, etc.)"
+674,423220,-1,4649,-1,except linens and floor coverings
+675,423220,-1,4663,-1,floor coverings
+676,423310,-1,4649,-1,kitchen cabinets
+677,423310,-1,4663,-1,except kitchen cabinets
+678,423320,0,4663,-1,
+679,423330,0,4663,-1,
+680,423390,0,4663,-1,
+681,423410,-1,4649,-1,"except motion picture and theater projection equipment, commercial video equipment, and television cameras"
+682,423410,-1,4659,-1,"motion picture and theater projection equipment, commercial video equipment, and television cameras"
+683,423420,0,4659,-1,
+684,423430,0,4651,0,
+685,423440,0,4659,-1,
+686,423450,-1,4649,-1,medical instruments and orthopedic devices
+687,423450,-1,4659,-1,except household medical instruments and orthopedic devices
+688,423460,0,4649,-1,
+689,423490,0,4659,-1,
+690,423510,0,4662,-1,
+691,423520,-1,4661,-1,except metal ores
+692,423520,-1,4662,-1,metal ores
+693,423610,-1,4649,-1,lighting equipment and light bulbs
+694,423610,-1,4652,-1,security systems merchant wholesalers
+695,423610,-1,4659,-1,"except lighting equipment, light bulbs, and security systems"
+696,423620,0,4649,-1,except water heaters
+697,423690,-1,4652,-1,except sonar and radar equipment
+698,423690,-1,4659,-1,sonar and radar equipment
+699,423710,0,4663,-1,
+700,423720,-1,4659,-1,power boilers
+701,423720,-1,4663,-1,water heaters and other plumbing and heating equipment and supplies; except power boilers
+702,423730,-1,4663,-1,except automotive air-conditioners
+703,423740,0,4659,-1,
+704,423810,0,4659,-1,
+705,423820,0,4653,0,
+706,423830,-1,4659,-1,"except chainsaws, ladders, and welding supplies and consumables"
+707,423830,-1,4663,-1,"chainsaws, ladders, and welding supplies and consumables"
+708,423840,-1,4659,-1,except printing inks
+709,423840,-1,4669,-1,printing inks
+710,423850,-1,4649,-1,janitorial supplies
+711,423850,-1,4659,-1,except janitorial supplies
+712,423860,0,4659,-1,
+713,423910,-1,4649,-1,except go-carts and hot tubs
+714,423910,-1,4663,-1,hot tubs
+715,423920,0,4649,-1,
+716,423930,0,4669,-1,
+717,423940,-1,4649,-1,except precious stones
+718,423940,-1,4669,-1,precious stones
+719,423990,-1,4649,-1,"pre-recorded audio and video tapes, CDs, records, and similar; luggage, and musical instruments"
+720,423990,-1,4659,-1,coin-operated games and amusement devices
+721,423990,-1,4661,-1,firewood
+722,423990,-1,4663,-1,"ties, poles, wood chips and shavings"
+723,423990,-1,4690,-1,"except ties, poles, wood chips, firewood, coin-operated games, prerecorded audio and video tapes, luggage, and musical instruments"
+724,424110,0,4669,-1,
+725,424120,0,4649,-1,
+726,424130,-1,4649,-1,"disposable cups, dishes, flatware, etc."
+727,424130,-1,4669,-1,"except disposable cups, dishes, flatware, etc."
+728,424210,0,4649,-1,
+729,424310,0,4641,-1,
+730,424320,0,4641,-1,
+731,424330,0,4641,-1,
+732,424340,0,4641,-1,
+733,424410,0,4630,-1,
+734,424420,0,4630,-1,
+735,424430,0,4630,-1,
+736,424440,-1,4620,-1,live poultry
+737,424440,-1,4630,-1,except live poultry
+738,424450,0,4630,-1,
+739,424460,0,4630,-1,
+740,424470,0,4630,-1,
+741,424480,0,4630,-1,
+742,424490,-1,4630,-1,except flavoring extracts
+743,424490,-1,4669,-1,flavoring extracts
+744,424510,0,4620,-1,
+745,424520,0,4620,-1,
+746,424590,-1,4620,-1,"except cacao beans and raw, unrefined sugar"
+747,424590,-1,4630,-1,"cacao beans and raw, unrefined sugar"
+748,424610,0,4669,-1,
+749,424690,-1,4649,-1,cleaning and polishing preparations
+750,424690,-1,4663,-1,turpentine
+751,424690,-1,4669,-1,except cleaning and polishing preparations and turpentine
+752,424710,0,4661,-1,
+753,424720,0,4661,-1,
+754,424810,0,4630,-1,
+755,424820,0,4630,-1,
+756,424910,-1,4620,-1,"except fertilizers, pesticides and agricultural chemicals"
+757,424910,-1,4669,-1,"fertilizers, pesticides, agricultural chemicals"
+758,424920,0,4649,-1,
+759,424930,0,4620,-1,
+760,424940,0,4630,-1,
+761,424950,-1,4663,-1,except pigments for paint
+762,424950,-1,4669,-1,pigments for paint
+763,424990,-1,4620,-1,"dressed furs and skins, pet animals, bait, artificial and live Christmas trees, and oilseed cake"
+764,424990,-1,4630,-1,ice for food purposes
+765,424990,-1,4641,-1,"yarn, textile bags, and felt"
+766,424990,-1,4649,-1,"leather goods (except belting, gloves, handbags, travel bags, and footwear)"
+767,424990,-1,4661,-1,charcoal
+768,424990,-1,4669,-1,"crude rubber, plastics foam, inedible animal and vegetable oils, plant food, etc.; sawdust and wood pulp"
+769,424990,-1,4690,-1,"general merchandise, nondurable"
+770,425110,-1,4610,-1,"except B2B of motor vehicles, motorcycles, and parts"
+771,425120,-1,4610,-1,"except agents and brokers for motor vehicles, motorcycles, and parts"
+772,441110,0,4510,-1,
+773,441120,0,4510,-1,
+774,441210,-1,4510,-1,except RV parts and accessories dealers
+775,441210,-1,4530,-1,RV parts and accessories dealers
+776,441222,-1,4763,-1,except boat dealers with primary repair receipts
+777,441228,-1,4510,-1,except retail aircraft and motorcycle dealers
+778,441228,-1,4540,-1,retail motorcycle dealers
+779,441228,-1,4773,-1,retail aircraft dealers
+780,441310,-1,4530,-1,except auto audio stores
+781,441310,-1,4742,-1,auto audio equipment stores (car stereo stores)
+782,441320,-1,4530,-1,"except motorcycle tire dealers, new and used"
+783,441320,-1,4540,-1,"motorcycle tire dealers, new and used"
+784,442110,0,4759,-1,
+785,442210,0,4753,-1,
+786,442291,-1,4753,-1,except blind and shade stores with primary repair receipts
+787,442299,-1,4759,-1,except custom picture framing shops
+788,442299,-1,4773,-1,custom picture framing shops
+789,443141,-1,4759,-1,except retail stores for appliances with primary repair receipts
+790,443142,-1,4741,0,telephone stores
+791,443142,-1,4742,-1,"except telephone stores, prerecorded tape, compact disc, and record stores, camera and photographic supplies stores, and consumer electronics stores with primary repair receipts"
+792,443142,-1,4762,0,"prerecorded tape, compact disc, and record stores"
+793,443142,-1,4773,-1,"camera and photographic supplies stores, except camera stores with primary repair receipts"
+794,444110,0,4752,-1,
+795,444120,-1,4752,-1,except wallpaper stores
+796,444120,-1,4753,-1,wallpaper stores
+797,444130,0,4752,-1,
+798,444190,-1,4752,-1,except lighting fixture stores
+799,444190,-1,4759,-1,lighting fixture stores
+800,444210,-1,4752,-1,except outdoor equipment stores with primary repair receipts
+801,444220,0,4773,-1,
+802,445110,0,4711,-1,
+803,445120,0,4711,-1,
+804,445210,0,4721,-1,
+805,445220,0,4721,-1,
+806,445230,-1,4721,-1,except fruit and vegetable stands
+807,445230,-1,4781,-1,fruit and vegetable stands (market type)
+808,445291,0,4721,-1,
+809,445292,0,4721,-1,
+810,445299,-1,4721,-1,except bottled water and soft drink stores
+811,445299,-1,4722,-1,bottled water and bottled soft drink stores
+812,445310,0,4722,-1,
+813,446110,0,4772,-1,
+814,446120,0,4772,-1,
+815,446130,0,4773,-1,
+816,446191,0,4721,-1,
+817,446199,0,4772,-1,
+818,447110,-1,4711,-1,"gas stations with convenience stores, primarily selling food or beverages"
+819,447110,-1,4730,-1,except gas stations with convenience stores primarily selling goods other than fuels
+820,447190,0,4730,-1,
+821,448110,0,4771,-1,
+822,448120,0,4771,-1,
+823,448130,0,4771,-1,
+824,448140,0,4771,-1,
+825,448150,-1,4771,-1,except wig and hairpiece stores
+826,448150,-1,4773,-1,wig and hairpiece stores
+827,448190,0,4771,-1,
+828,448210,0,4771,-1,
+829,448310,-1,4773,-1,except jewelry stores with primary repair receipts
+830,448320,-1,4771,-1,except luggage and leather goods stores with primary repair receipts
+831,451110,-1,4763,-1,except sporting goods stores with primary repair receipts
+832,451120,0,4764,0,
+833,451130,0,4751,0,
+834,451140,-1,4759,-1,except musical instrument stores with primary repair receipts
+835,451211,0,4761,-1,
+836,451212,0,4761,-1,
+837,452111,0,4719,-1,
+838,452112,0,4719,-1,
+839,452910,-1,4711,-1,except warehouse clubs and superstores with lines other than grocery or beverage predominant
+840,452910,-1,4719,-1,warehouse clubs and superstores with lines other than grocery or beverage predominant
+841,452990,-1,4530,-1,auto and home stores
+842,452990,-1,4719,-1,except auto and home stores
+843,453110,0,4773,-1,
+844,453210,0,4761,-1,
+845,453220,0,4773,-1,
+846,453310,0,4774,-1,
+847,453910,0,4773,-1,
+848,453920,0,4773,-1,
+849,453930,0,4773,-1,
+850,453991,0,4723,0,
+851,453998,-1,4752,-1,sauna and hot tub stores
+852,453998,-1,4759,-1,home security equipment stores and candle stores
+853,453998,-1,4773,-1,"except sauna and hot tub stores, candle stores, home security stores, and general merchandise auction houses"
+854,453998,-1,4774,-1,general merchandise auction houses
+855,454111,0,4791,-1,
+856,454112,0,4791,-1,
+857,454113,0,4791,-1,
+858,454210,0,4799,-1,
+859,454310,0,4799,-1,
+860,454390,-1,4781,-1,"temporary food, beverage, and tobacco stands"
+861,454390,-1,4782,0,temporary apparel stands
+862,454390,-1,4789,0,"temporary stands (except newsstands), seasonal stands, such as temporary fruit stands and Christmas tree stands, etc., flea market stands, bazaars, street vendors"
+863,454390,-1,4799,-1,"except temporary stands for food, beverage, tobacco, apparel, street vendors, and flea market stands"
+864,811111,0,4520,-1,
+865,811112,0,4520,-1,
+866,811113,0,4520,-1,
+867,811118,0,4520,-1,
+868,811121,-1,4520,-1,"except custom fabrication of trailer bodies in a shop rather than on a factory basis, custom conversion of vans in a shop rather than a factory"
+869,811122,0,4520,-1,
+870,811191,0,4520,-1,
+871,811192,0,4520,-1,
+872,811198,-1,4520,-1,except motor vehicle emissions and safety inspection services
+873,811310,-1,4520,-1,repair of trailers
+874,811490,-1,4540,-1,"general motorcycle repair shops, without retailing new motorcycles"
+876,442291,-1,9524,-1,"retailing new blinds and shades in combination with repair, repair as primary source of receipts"
+877,443141,-1,9522,-1,"retailing new electrical appliances combined with repair services, repair as primary source of receipts"
+879,443142,-1,9521,-1,retailing new and repairing consumer electronics with repair as primary source of receipts
+880,444210,-1,9522,-1,"retailing new outdoor power equipment in combination with repair, repair as primary source of receipts"
+881,448310,-1,9529,-1,"retailing new jewelry, clocks, and watches in combination with repair of these items, repair primary source of revenue"
+882,448320,-1,9523,-1,retailing new luggage and leather goods with repair as primary source of receipts
+883,451110,-1,9529,-1,sporting goods stores with primary repair receipts
+884,451140,-1,9529,-1,"retail sale of new musical instruments combined with repair, repair as primary source of receipts"
+886,423110,-1,4510,-1,"except motor vehicle bodies and motorcycles, wholesale"
+887,423110,-1,4530,-1,"motor vehicle bodies, wholesale"
+888,423110,-1,4540,-1,motorcycle wholesalers
+889,423120,-1,4530,-1,"except new motorcycle parts, engine testing equipment, and mechanics' hand tools"
+890,423120,-1,4540,-1,new motorcycle parts wholesale
+891,423130,-1,4530,-1,except wholesale of motorcycle tires and tubes
+892,423130,-1,4540,-1,wholesale of motorcycle tires and tubes
+893,423140,-1,4530,-1,except wholesale of used motorcycle parts
+894,423140,-1,4540,-1,wholesale of used motorcycle parts
+895,423730,-1,4530,-1,"automotive air-conditioners, wholesale"
+896,423910,-1,4510,-1,wholesale of go-carts
+897,425110,-1,4510,-1,motor vehicle B2B
+898,425110,-1,4530,-1,parts B2B markets
+899,425110,-1,4540,-1,motorcycle and parts B2B markets
+900,425120,-1,4510,-1,motor vehicle agents and brokers
+901,425120,-1,4530,-1,parts agents and brokers
+902,425120,-1,4540,-1,motorcycle agents and brokers
+915,482111,-1,4911,-1,interurban passenger rail transportation
+916,482111,-1,4912,-1,except interurban passenger rail transportation
+917,482112,0,4912,-1,
+918,484110,0,4923,-1,
+919,484121,0,4923,-1,
+920,484122,0,4923,-1,
+921,484210,0,4923,-1,
+922,484220,0,4923,-1,
+923,484230,0,4923,-1,
+924,486110,0,4930,-1,
+925,486210,0,4930,-1,
+926,486910,0,4930,-1,
+927,486990,0,4930,-1,
+928,487110,-1,4911,-1,operation of scenic and sightseeing railroads
+929,487110,-1,4922,-1,except operation of scenic and sightseeing railroads
+930,487990,-1,4922,-1,"except air sightseeing transport (helicopter, hot air balloon, etc.)"
+931,713920,-1,4922,-1,ski lift operators
+942,485111,0,4921,-1,
+943,485112,0,4921,-1,
+944,485113,0,4921,-1,
+945,485119,0,4921,-1,
+946,485210,0,4922,-1,
+947,485310,0,4922,-1,
+948,485320,0,4922,-1,
+949,485410,0,4922,-1,
+950,485510,0,4922,-1,
+951,485991,0,4922,-1,
+952,485999,0,4922,-1,
+1006,487210,-1,5011,-1,except inland sightseeing by water and inland charter fishing boats
+1007,487210,-1,5021,-1,inland water sightseeing transportation and inland charter fishing boats
+1008,487990,-1,5110,-1,"sightseeing air transportation (helicopter, hot air balloon, etc.), nonscheduled sightseeing transportation"
+1009,927110,-1,5120,-1,transportation of freight using government space vehicles and systems
+1010,488111,0,5223,-1,
+1011,488119,-1,5223,-1,except contract baggage handling and sweeping runways
+1012,488119,-1,5224,-1,baggage or cargo handling on a contract basis at airports
+1013,488190,-1,5223,-1,"other services, such as aircraft testing services"
+1014,488210,-1,5221,-1,"except locomotive and railroad car repair, contract loading and unloading of rail cars, and freight car cleaning services"
+1015,488210,-1,5224,-1,"loading and unloading rail cars, contract basis at rail yards"
+1016,488310,0,5222,-1,
+1017,488320,-1,5224,-1,except ship hold cleaning services
+1018,488330,0,5222,-1,
+1019,488390,-1,5222,-1,vessel supply services
+1020,488390,-1,5229,-1,"except vessel supply services, floating dry dock repair and maintenance services, and ship breaking or dismantling on a floating dry dock"
+1021,488410,0,5221,-1,
+1022,488490,-1,5221,-1,"except loading and unloading trucks, road cargo surveyors, street sweeping and snow removal"
+1023,488490,-1,5224,-1,loading and unloading trucks at terminals
+1024,488490,-1,5229,-1,cargo surveyors-truck transportation
+1025,488510,0,5229,-1,
+1026,488991,0,5229,-1,
+1027,488999,-1,5221,-1,"except liquefaction of natural gas at the mine site, nongovernment space flight centers, and arrangement of van or car pools"
+1028,488999,-1,5223,-1,nongovernment space flight operations centers not providing space transportation
+1029,488999,-1,5229,-1,arrangement of car pools and van pools
+1030,812930,-1,5221,-1,except valet parking services
+1037,488119,-1,8129,-1,cleaning and sweeping airport runways
+1040,488210,-1,8129,-1,freight car cleaning services
+1041,488320,-1,8129,-1,ship hold cleaning services
+1043,488390,-1,3830,-1,ship breaking or dismantling done on a floating dry dock
+1044,488490,-1,8129,-1,"street sweeping and snow removal on highways, bridges, roads, etc."
+1046,492110,0,5320,-1,
+1047,492210,0,5320,-1,
+1048,493110,0,5210,-1,
+1049,493120,0,5210,-1,
+1050,493130,0,5210,-1,
+1051,493190,0,5210,-1,
+1053,721120,-1,9200,-1,except casino hotels with hotel activities as primary source of receipts
+1054,722310,0,5629,0,
+1055,722320,0,5621,0,
+1056,722330,-1,5610,-1,except mobile beverage bars and carts
+1057,722330,-1,5630,-1,mobile beverage bars and carts
+1058,722410,0,5630,-1,
+1059,722511,0,5610,-1,
+1060,722513,0,5610,-1,
+1061,722514,0,5610,-1,
+1062,722515,-1,5610,-1,except nonalcoholic beverage bars
+1063,722515,-1,5630,-1,nonalcoholic beverage bars
+1064,721110,-1,5510,-1,except separate operation of sleeping car services
+1065,721110,-1,5590,-1,separate operation of sleeping car services
+1066,721120,-1,5510,-1,casino hotels (hotel as plurality of revenue)
+1067,721191,0,5510,-1,
+1068,721199,0,5510,-1,
+1069,721211,0,5520,-1,
+1070,721214,0,5520,-1,
+1071,721310,0,5590,-1,
+1072,515111,-1,6010,-1,except transmission only
+1073,515112,-1,6010,-1,except transmission only
+1074,515120,-1,6020,-1,except transmission only
+1075,515210,-1,6020,-1,except transmission only
+1076,519130,-1,5811,-1,Internet only book publishing
+1077,519130,-1,5812,-1,"on-line directory, collection, and mailing list publishing"
+1078,519130,-1,5813,-1,"Internet only newspaper, journal and periodical publishing"
+1079,519130,-1,5819,-1,other publishing exclusively on the Internet
+1080,519130,-1,5820,-1,Internet software publishing without traditional publishing
+1081,519130,-1,6010,-1,Internet radio broadcasting
+1082,519130,-1,6020,-1,Internet television broadcasting
+1083,512110,0,5911,0,
+1084,512120,0,5913,-1,
+1085,512131,0,5914,-1,
+1086,512132,0,5914,-1,
+1087,512191,0,5912,-1,
+1088,512199,-1,5912,-1,except motion picture booking agencies
+1089,512199,-1,5913,-1,motion picture booking agencies
+1090,512210,0,5920,-1,
+1091,512220,0,5920,-1,
+1092,512230,0,5920,-1,
+1093,512240,0,5920,-1,
+1094,512290,0,5920,-1,
+1095,511110,0,5813,-1,
+1096,511120,0,5813,-1,
+1097,511130,0,5811,-1,
+1098,511140,0,5812,-1,
+1099,511191,0,5819,-1,
+1100,511199,-1,5811,-1,yearbook publishing
+1101,511199,-1,5819,-1,except yearbook publishing
+1102,511210,0,5820,-1,
+1114,515111,-1,6120,-1,transmission only
+1115,515112,-1,6120,-1,transmission only
+1116,515120,-1,6120,-1,transmission only
+1117,515210,-1,6120,-1,transmission only
+1118,517110,-1,6110,0,except direct-to-home satellite television service
+1119,517110,-1,6130,-1,direct-to-home satellite television service
+1120,517210,0,6120,-1,
+1121,517410,-1,6130,-1,except satellite telecommunications resellers
+1122,517410,-1,6190,-1,satellite telecommunications resellers
+1123,517911,0,6190,-1,
+1124,517919,0,6190,-1,
+1144,812990,-1,6190,-1,pay telephone concession operators
+1145,518210,-1,7420,-1,microfilming services
+1146,519120,0,9101,-1,
+1152,519130,-1,5920,-1,Internet music publishing without traditional music publishing
+1155,519190,-1,9101,-1,stock photo libraries and services
+1156,541511,0,6201,0,
+1157,541512,0,6202,-1,
+1158,541513,0,6202,-1,
+1159,541519,0,6209,0,
+1160,522110,0,6419,-1,
+1161,522120,0,6419,-1,
+1162,522130,0,6419,-1,
+1163,522190,0,6419,-1,
+1164,522210,0,6492,-1,
+1165,522220,-1,6491,0,establishments providing a combination of sales financing and finance leasing (finance leasing primary).
+1166,522220,-1,6492,-1,except units providing a combination of sales financing and financial leasing with financial leasing primary
+1167,522291,0,6492,-1,
+1168,522292,0,6492,-1,
+1169,522293,0,6492,-1,
+1170,522294,0,6499,-1,
+1171,522298,-1,6411,-1,national office supervising credit unions (similar to oversight of banks by Central Bank)
+1172,522298,-1,6492,-1,except credit union oversight and factoring accounts receivable
+1173,522298,-1,6499,-1,factoring accounts receivable
+1174,522310,0,6619,-1,
+1175,522320,0,6619,-1,
+1176,522390,0,6419,-1,
+1177,523110,0,6499,-1,
+1178,523120,0,6612,-1,
+1179,523130,-1,6499,-1,except foreign currency exchanges
+1180,523130,-1,6612,-1,foreign currency exchanges (selling currency to the public)
+1181,523140,0,6612,-1,
+1182,523210,0,6611,0,
+1183,523910,-1,6499,-1,except buying and selling real estate as a trading stock
+1184,523920,0,6630,0,
+1185,523930,0,6619,-1,
+1186,523991,0,6619,-1,
+1187,523999,-1,6612,-1,gas and oil lease brokers offices
+1188,523999,-1,6619,-1,except gas and oil lease brokers offices
+1189,524210,0,6622,0,
+1190,524291,0,6621,0,
+1191,524292,0,6629,-1,
+1192,524298,0,6629,-1,
+1193,525120,0,6430,-1,
+1194,525190,0,6430,-1,
+1195,525910,0,6430,-1,
+1196,525920,0,6430,-1,
+1197,525990,0,6430,-1,
+1198,541612,-1,6629,-1,actuarial consulting services
+1199,551111,0,6420,-1,
+1200,551112,0,6420,-1,
+1201,521110,0,6411,-1,
+1226,523910,-1,6810,-1,buying and selling of real estate as a trading stock of the seller
+1257,524113,0,6511,0,
+1258,524114,0,6512,-1,
+1259,524126,0,6512,-1,
+1260,524127,0,6512,-1,
+1261,524128,0,6512,-1,
+1262,524130,0,6520,0,
+1301,525110,0,6530,0,
+1340,532111,0,7710,-1,
+1341,532112,0,7710,-1,
+1342,532120,-1,7710,-1,except rental and leasing of RVs
+1343,532120,-1,7730,-1,rental and leasing of RVs
+1344,532210,0,7729,-1,
+1345,532220,0,7729,-1,
+1346,532230,0,7722,0,
+1347,532291,0,7729,-1,
+1348,532292,-1,7721,0,except rental of motorcycles
+1349,532292,-1,7730,-1,rental of motorcycles
+1350,532299,0,7729,-1,
+1351,532310,-1,7729,-1,renting a range of commercial and household equipment including do-it-yourself equipment (primarily household)
+1352,532310,-1,7730,-1,except general rental centers primarily renting personal or household goods
+1353,532411,0,7730,-1,
+1354,532412,0,7730,-1,
+1355,532420,0,7730,-1,
+1356,532490,0,7730,-1,
+1357,533110,0,7740,0,
+1359,531110,0,6810,-1,
+1360,531120,0,6810,-1,
+1361,531130,0,6810,-1,
+1362,531190,0,6810,-1,
+1363,531210,0,6820,-1,
+1364,531311,0,6820,-1,
+1365,531312,0,6820,-1,
+1366,531320,0,6820,-1,
+1367,531390,0,6820,-1,
+1369,541211,0,6920,-1,
+1370,541213,0,6920,-1,
+1371,541214,0,6920,-1,
+1372,541219,0,6920,-1,
+1373,541940,0,7500,-1,
+1374,541990,-1,6910,-1,arbitration and conciliation services not provided by lawyers or paralegals
+1380,541110,0,6910,-1,
+1381,541120,0,6910,-1,null set in US: legal activities carried out by notaries
+1382,541191,0,6910,-1,
+1383,541199,0,6910,-1,
+1390,541310,0,7110,-1,
+1391,541320,0,7110,-1,
+1392,541330,0,7110,-1,
+1393,541340,0,7110,-1,
+1394,541350,0,7110,-1,
+1395,541360,0,7110,-1,
+1396,541370,0,7110,-1,
+1397,541380,0,7120,-1,
+1398,541410,0,7410,-1,
+1399,541420,0,7410,-1,
+1400,541430,0,7410,-1,
+1401,541490,0,7410,-1,
+1402,541611,0,7020,-1,
+1404,541612,-1,7020,-1,except actuarial consulting services
+1405,541613,0,7020,-1,
+1406,541614,-1,7020,-1,except freight rate auditors and consultants
+1407,541614,-1,7490,-1,freight rate auditors and consultants
+1408,541618,0,7490,-1,
+1409,541620,0,7490,-1,
+1410,541690,0,7490,-1,
+1411,541711,0,7210,-1,
+1412,541712,0,7210,-1,
+1413,541720,0,7220,0,
+1414,541810,0,7310,-1,
+1415,541820,0,7020,-1,
+1416,541830,0,7310,-1,
+1417,541840,0,7310,-1,
+1418,541850,0,7310,-1,
+1419,541860,0,7310,-1,
+1420,541870,0,7310,-1,
+1421,541890,0,7310,-1,
+1422,541910,0,7320,0,
+1423,541921,0,7420,-1,
+1424,541922,0,7420,-1,
+1425,541930,0,7490,-1,
+1426,541990,-1,7490,-1,"except arbitration and conciliation services, handwriting analysis and consumer credit and debt counseling services"
+1427,541990,-1,8030,-1,handwriting analysis services and expert services
+1428,541990,-1,8890,-1,consumer credit and debt counseling services
+1436,551114,0,7010,0,
+1448,561210,-1,8110,0,except private contract operation of prisons
+1449,561210,-1,8423,-1,private contract operation of prisons
+1450,561311,0,7810,-1,
+1451,561312,0,7810,-1,
+1452,561320,0,7820,0,
+1453,561330,0,7830,0,
+1454,561440,-1,8411,-1,tax collection on a contract or fee basis
+1455,561510,0,7911,0,
+1456,561520,0,7912,0,
+1457,561591,0,7990,-1,
+1458,561599,0,7990,-1,
+1459,561611,-1,8010,-1,"fingerprinting, polygraph services"
+1460,561611,-1,8030,-1,except fingerprinting and polygraph services
+1461,561612,0,8010,-1,
+1462,561613,0,8010,-1,
+1463,561621,0,8020,-1,
+1464,561622,0,8020,-1,
+1465,561710,0,8129,-1,
+1466,561720,-1,8121,0,except cleaning transport equipment and window cleaning services
+1467,561720,-1,8129,-1,"cleaning of transport equipment, window cleaning services"
+1468,561730,0,8130,0,
+1469,561740,0,9601,-1,
+1471,561790,-1,8129,-1,except power washing and other exterior cleaning
+1473,561990,-1,8413,-1,vehicle license issuing on a contract or fee basis
+1474,561990,-1,8423,-1,commercial fire fighting
+1496,622110,0,8610,-1,
+1497,622210,0,8610,-1,
+1498,622310,0,8610,-1,
+1499,624110,0,8890,-1,
+1500,624120,0,8810,0,
+1501,624190,0,8890,-1,
+1502,624210,0,8890,-1,
+1503,624221,0,8890,-1,
+1504,624229,0,8890,-1,
+1505,624230,0,8890,-1,
+1506,624310,0,8890,-1,
+1507,624410,0,8890,-1,
+1509,621111,0,8620,-1,
+1510,621112,0,8620,-1,
+1511,621210,0,8620,-1,
+1512,621310,0,8690,-1,
+1513,621320,0,8690,-1,
+1514,621330,0,8690,-1,
+1515,621340,0,8690,-1,
+1516,621391,0,8690,-1,
+1517,621399,0,8690,-1,
+1518,621410,-1,8620,-1,except family planning and counseling provided by medical professionals (except doctors) and family planning social services
+1519,621410,-1,8690,-1,"medical family planning centers, services by nurses and other medical professionals except doctors"
+1520,621410,-1,8890,-1,"family planning counseling and services not provided by doctors, nurses, or other medical professionals"
+1521,621420,-1,8620,-1,"except outpatient detoxification centers, drug addiction centers, mental health centers etc. without medical doctors providing services"
+1522,621420,-1,8690,-1,"outpatient detoxification centers, drug addiction centers, mental health centers etc. without medical doctors providing services"
+1523,621491,0,8620,-1,
+1524,621492,0,8690,-1,
+1525,621493,0,8620,-1,
+1526,621498,-1,8620,-1,"except nonmedical treatment facilities, biofeedback centers and sleep disorder centers"
+1527,621498,-1,8690,-1,"nonmedical treatment facilities, biofeedback centers and sleep disorder centers"
+1528,621511,0,8690,-1,
+1529,621512,0,8690,-1,
+1530,621610,0,8690,-1,
+1531,621910,0,8690,-1,
+1532,621991,0,8690,-1,
+1533,621999,0,8690,-1,
+1543,623110,0,8710,0,
+1544,623210,0,8720,-1,
+1545,623220,0,8720,-1,
+1546,623311,0,8730,-1,
+1547,623312,0,8730,-1,
+1548,623990,0,8790,0,
+1616,711410,0,7490,-1,
+1617,711510,-1,3290,-1,taxidermists (wildlife artists)
+1619,711510,-1,7420,-1,independent photojournalists
+1620,712110,0,9102,-1,
+1621,712120,0,9102,-1,
+1622,712130,0,9103,-1,
+1623,712190,0,9103,-1,
+1624,713110,0,9321,0,
+1625,713120,0,9329,-1,
+1626,713910,0,9311,-1,
+1627,713920,-1,9329,-1,except independent ski lift operators
+1628,713930,0,9329,-1,
+1629,713940,0,9311,-1,
+1630,713950,0,9311,-1,
+1631,713990,-1,9312,-1,"recreational sporting teams and clubs (such as little league), hunting guides"
+1632,713990,-1,9319,-1,"driving ranges, skeet shooting facilities, billiard rooms, and other miscellaneous sporting facility operation"
+1633,713990,-1,9329,-1,"except driving ranges, skeet shooting facilities, billiard rooms, recreational sporting teams and clubs, hunting guides, and tourist guide services"
+1634,813990,-1,9319,-1,sports leagues and regulating bodies
+1635,713210,0,9200,-1,
+1636,713290,0,9200,-1,
+1638,713990,-1,7990,-1,tourist guide services
+1639,711110,0,9000,-1,
+1640,711120,0,9000,-1,
+1641,711130,0,9000,-1,
+1642,711190,-1,9000,-1,except carnivals
+1643,711190,-1,9329,-1,carnivals
+1644,711211,0,9312,-1,
+1645,711212,0,9311,-1,
+1646,711219,0,9319,-1,
+1647,711310,-1,9000,-1,arts facilities operators
+1648,711310,-1,9311,-1,"except arts facilities operators, sports promoters with facilities and fair promoters with facilities"
+1649,711310,-1,9319,-1,sports organizers and promoters with facilities
+1650,711310,-1,9329,-1,"fair promoters and organizers with facilities, including agricultural fairs"
+1651,711320,-1,9000,-1,arts events organizers without facilities
+1652,711320,-1,9319,-1,"except arts events organizers without facilities, fair promoters and organizers without facilities and concert booking agencies"
+1653,711320,-1,9329,-1,"concert booking agencies and fair promoters and organizers without facilities, including agricultural fairs"
+1654,711510,-1,9000,-1,"except independent photojournalists, restoration services for organs and similar antique instruments, and taxidermists"
+1666,811198,-1,7120,-1,automobile emissions inspection services and safety inspection services
+1668,811211,-1,9512,-1,cell phone repair
+1669,811211,-1,9521,-1,except camera and cell phone repair
+1672,811212,-1,9511,0,"except repair of office machines, dictating machines, and digital cameras"
+1674,811213,-1,9512,-1,except repair of public address equipment and GPS devices
+1675,811213,-1,9521,-1,repair and maintenance of public address equipment
+1685,811310,-1,8129,-1,cleaning industrial machinery
+1687,811411,-1,9522,-1,except repair of hand-held power tools
+1688,811412,0,9522,-1,
+1689,811420,0,9524,-1,
+1690,811430,0,9523,-1,
+1696,811490,-1,9522,-1,outboard motor repair
+1697,811490,-1,9529,-1,"except gun, bowling alley equipment, boat, animal drawn vehicles, coin-operated games, motorcycle, and outboard motor repair"
+1698,812921,0,7420,-1,
+1699,812922,0,7420,-1,
+1702,812990,-1,9529,-1,baby shoe bronzing
+1704,814110,0,9700,0,

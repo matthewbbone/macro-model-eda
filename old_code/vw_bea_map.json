@@ -1,0 +1,143 @@
+{
+    "Agriculture": [
+        "110C",
+        "113F"
+    ],
+    "Mining": [
+        "2120"
+    ],
+    "Oil/Gas": [
+        "2110"
+    ],
+    "Mining Support": [
+        "2120"
+    ],
+    "Util": [
+        "2200"
+    ],
+    "Const": [
+        "2300"
+    ],
+    "Wood": [
+        "3210"
+    ],
+    "Minerals": [
+        "3270"
+    ],
+    "Primary Metals": [
+        "3310"
+    ],
+    "Fabricated Metals": [
+        "3320"
+    ],
+    "Machinery": [
+        "3330"
+    ],
+    "Computers": [
+        "3340"
+    ],
+    "Electrical": [
+        "3350"
+    ],
+    "Vehicles": [
+        "336M"
+    ],
+    "Transport": [
+        "336O"
+    ],
+    "Furniture": [
+        "3370"
+    ],
+    "Misc Mfg": [
+        "338A"
+    ],
+    "Food Mfg": [
+        "311A"
+    ],
+    "Textile": [
+        "313T"
+    ],
+    "Apparel": [
+        "315A"
+    ],
+    "Paper": [
+        "3220"
+    ],
+    "Printing": [
+        "3230"
+    ],
+    "Petroleum": [
+        "3240"
+    ],
+    "Chemical": [
+        "3250"
+    ],
+    "Plastics": [
+        "3260"
+    ],
+    "Wholesale Trade": [
+        "4200"
+    ],
+    "Retail Trade": [
+        "44RT"
+    ],
+    "Transit/Warehouse": [
+        "487S",
+        "4930"
+    ],
+    "Info": [
+        "5110",
+        "5120",
+        "5130",
+        "5140"
+    ],
+    "Finance/Insurance": [
+        "5210",
+        "5220",
+        "5230",
+        "5240",
+        "5250"
+    ],
+    "Real Estate": [
+        "5310"
+    ],
+    "Rental": [
+        "5320"
+    ],
+    "Prof/Tech": [
+        "5411",
+        "5412",
+        "5415"
+    ],
+    "Mgmt": [
+        "5500"
+    ],
+    "Admin": [
+        "5610",
+        "5620"
+    ],
+    "Educ": [
+        "6100"
+    ],
+    "Health": [
+        "336M",
+        "5620",
+        "6210",
+        "622H",
+        "6230",
+        "6240"
+    ],
+    "Arts": [
+        "711A",
+        "7130"
+    ],
+    "Accom": [
+        "7210"
+    ],
+    "Food Services": [
+        "7220"
+    ],
+    "Other Services": [
+        "8100"
+    ]
+}

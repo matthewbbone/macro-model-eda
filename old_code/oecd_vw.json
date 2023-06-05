@@ -1,0 +1,139 @@
+{
+    "01T02": [
+        "Agriculture"
+    ],
+    "03": [
+        "Agriculture"
+    ],
+    "05T06": [
+        "Oil/Gas"
+    ],
+    "07T08": [
+        "Mining"
+    ],
+    "09": [
+        "Mining Support"
+    ],
+    "10T12": [
+        "Food Mfg"
+    ],
+    "13T15": [
+        "Textile",
+        "Apparel"
+    ],
+    "16": [
+        "Wood"
+    ],
+    "17T18": [
+        "Paper",
+        "Printing"
+    ],
+    "19": [
+        "Petroleum"
+    ],
+    "20": [
+        "Chemical"
+    ],
+    "21": [
+        "Chemical"
+    ],
+    "22": [
+        "Plastics"
+    ],
+    "23": [
+        "Minerals"
+    ],
+    "24": [
+        "Primary Metals"
+    ],
+    "25": [
+        "Fabricated Metals"
+    ],
+    "26": [
+        "Computers"
+    ],
+    "27": [
+        "Electrical"
+    ],
+    "28": [
+        "Machinery"
+    ],
+    "29": [
+        "Vehicles"
+    ],
+    "30": [
+        "Transport"
+    ],
+    "31T33": [
+        "Misc Mfg"
+    ],
+    "35": [
+        "Util"
+    ],
+    "36T39": [
+
+    ],
+    "41T43": [
+        "Const"
+    ],
+    "45T47": [
+        "Wholesale Trade",
+        "Retail Trade"
+    ],
+    "49": [
+        "Transit/Warehouse"
+    ],
+    "50": [
+        "Transit/Warehouse"
+    ],
+    "51": [
+        "Transit/Warehouse"
+    ],
+    "52": [
+        "Transit/Warehouse"
+    ],
+    "53": [
+        
+    ],
+    "55T56": [
+        "Accom",
+        "Food Services"
+    ],
+    "58T60": [
+        "Info"
+    ],
+    "61": [
+        "Info"
+    ],
+    "62T63": [
+        "Info"
+    ],
+    "64T66": [
+        "Finance/Insurance"
+    ],
+    "68": [
+        "Real Estate",
+        "Rental"
+    ],
+    "69T75": [
+        "Prof/Tech"
+    ],
+    "77T82": [
+        "Admin"
+    ],
+    "84": [
+        
+    ],
+    "85": [
+        "Educ"
+    ],
+    "86T88": [
+        "Health"
+    ],
+    "90T93": [
+        "Arts"
+    ],
+    "94T96": [
+        "Other Services"
+    ]
+}

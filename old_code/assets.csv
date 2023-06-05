@@ -1,0 +1,99 @@
+EQUIPMENT	TOTAL EQUIPMENT
+EP1A	Mainframes
+EP1B	PCs
+EP1C	DASDs
+EP1D	Printers
+EP1E	Terminals
+EP1F	Tape drives
+EP1G	Storage devices
+EP1H	System integrators
+EP20	Communications
+EP34	Nonelectro medical instruments
+EP35	Electro medical instruments
+EP36	Nonmedical instruments
+EP31	Photocopy and related equipment
+EP12	Office and accounting equipment
+EI11	Nuclear fuel
+EI12	Other fabricated metals
+EI21	Steam engines
+EI22	Internal combustion engines
+EI30	Metalworking machinery
+EI40	Special industrial machinery
+EI50	General industrial equipment
+EI60	Electric transmission and distribution
+ET11	Light trucks (including utility vehicles)
+ET12	Other trucks, buses and truck trailers
+ET20	Autos
+ET30	Aircraft
+ET40	Ships and boats
+ET50	Railroad equipment
+EO11	Household furniture
+EO12	Other furniture
+EO30	Other agricultural machinery
+EO21	Farm tractors
+EO40	Other construction machinery
+EO22	Construction tractors
+EO50	Mining and oilfield machinery
+EO60	Service industry machinery
+EO71	Household appliances
+EO72	Other electrical
+EO80	Other
+STRUCTURES	TOTAL STRUCTURES
+SOO1	Office                                    
+SB31	Hospitals                             
+SB32	Special care                          
+SOO2	Medical buildings                       
+SC03	Multimerchandise shopping            
+SC04	Food and beverage establishments
+SC01	Warehouses                                
+SOMO 	Mobile structures
+SC02	Other commercial
+SI00	Manufacturing                               
+SU30	Electric                                
+SU60	Wind and solar
+SU40	Gas
+SU50	Petroleum pipelines
+SU20	Communication                             
+SM01	Petroleum and natural gas          
+SM02	Mining                                    
+SB10	Religious                                 
+SB20	Educational and vocational       
+SB41	Lodging                                   
+SB42	Amusement and recreation         
+SB43	Air transportation
+SB45	Other transportation
+SU11	Other railroad
+SU12	Track replacement
+SB44	Local transit structures
+SB46	Other land transportation                       
+SN00	Farm                                      
+SO01	Water supply
+SO02	Sewage and waste disposal
+SO03	Public safety
+SO04	Highway and conservation and development
+IPP	TOTAL INTELLECTUAL PROPERTY PRODUCTS
+ENS1	Prepackaged software
+ENS2	Custom software
+ENS3	Own account software
+RD11	Pharmaceutical and medicine manufacturing     
+RD12	Chemical manufacturing, ex. pharma and med
+RD23	Semiconductor and other component manufacturing   
+RD21	Computers and peripheral equipment manufacturing
+RD22	Communications equipment manufacturing 
+RD24	Navigational and other instruments manufacturing
+RD25	Other computer and electronic manufacturing, n.e.c.
+RD31	Motor vehicles and parts manufacturing 
+RD32	Aerospace products and parts manufacturing             
+RDOM	Other manufacturing                                          
+RD70	Scientific research and development services            
+RD40	Software publishers
+RD50	Financial and real estate services
+RD60	Computer systems design and related services
+RD80	All other nonmanufacturing, n.e.c.                            
+RD91	Private universities and colleges                            
+RD92	Other nonprofit institutions                                 
+AE10	Theatrical movies
+AE20	Long-lived television programs                           
+AE30	Books
+AE40	Music                                           
+AE50	Other entertainment originals                                  

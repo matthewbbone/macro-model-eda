@@ -1,0 +1,1033 @@
+{'Aruba': [
+        19,
+        20
+    ], 'Africa Eastern and Southern': [
+        20
+    ], 'Afghanistan': [
+        0,
+        1,
+        2,
+        3,
+        19,
+        20
+    ], 'Africa Western and Central': [
+        20
+    ], 'Angola': [
+        19,
+        20
+    ], 'Albania': [], 'Andorra': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Arab World': [], 'United Arab Emirates': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        20
+    ], 'Argentina': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Armenia': [], 'American Samoa': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Antigua and Barbuda': [], 'Australia': [], 'Austria': [], 'Azerbaijan': [], 'Burundi': [], 'Belgium': [], 'Benin': [
+        20
+    ], 'Burkina Faso': [], 'Bangladesh': [], 'Bulgaria': [], 'Bahrain': [], 'Bahamas, The': [
+        20
+    ], 'Bosnia and Herzegovina': [
+        0,
+        1,
+        2,
+        3,
+        4
+    ], 'Belarus': [], 'Belize': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Bermuda': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Bolivia': [], 'Brazil': [], 'Barbados': [
+        19,
+        20
+    ], 'Brunei Darussalam': [
+        20
+    ], 'Bhutan': [], 'Botswana': [], 'Central African Republic': [
+        20
+    ], 'Canada': [], 'Central Europe and the Baltics': [], 'Switzerland': [], 'Channel Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Chile': [], 'China': [],
+    "Cote d'Ivoire": [], 'Cameroon': [], 'Congo, Dem. Rep.': [
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Congo, Rep.': [
+        20
+    ], 'Colombia': [], 'Comoros': [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Cabo Verde': [
+        20
+    ], 'Costa Rica': [], 'Caribbean small states': [
+        20
+    ], 'Cuba': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Curacao': [
+        19,
+        20
+    ], 'Cayman Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Cyprus': [
+        20
+    ], 'Czech Republic': [], 'Germany': [], 'Djibouti': [
+        20
+    ], 'Dominica': [], 'Denmark': [], 'Dominican Republic': [], 'Algeria': [], 'East Asia & Pacific (excluding high income)': [
+        20
+    ], 'Early-demographic dividend': [], 'East Asia & Pacific': [
+        20
+    ], 'Europe & Central Asia (excluding high income)': [], 'Europe & Central Asia': [], 'Ecuador': [], 'Egypt, Arab Rep.': [
+        20
+    ], 'Euro area': [], 'Eritrea': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Spain': [], 'Estonia': [], 'Ethiopia': [
+        19,
+        20
+    ], 'European Union': [], 'Fragile and conflict affected situations': [
+        20
+    ], 'Finland': [], 'Fiji': [], 'France': [], 'Faroe Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Micronesia, Fed. Sts.': [
+        18,
+        19,
+        20
+    ], 'Gabon': [
+        20
+    ], 'United Kingdom': [], 'Georgia': [], 'Ghana': [], 'Gibraltar': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Guinea': [
+        0,
+        1,
+        2,
+        3
+    ], 'Gambia, The': [], 'Guinea-Bissau': [
+        19,
+        20
+    ], 'Equatorial Guinea': [
+        20
+    ], 'Greece': [], 'Grenada': [], 'Greenland': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Guatemala': [], 'Guam': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Guyana': [], 'High income': [], 'Hong Kong SAR, China': [], 'Honduras': [], 'Heavily indebted poor countries (HIPC)': [
+        20
+    ], 'Croatia': [], 'Haiti': [], 'Hungary': [], 'IBRD only': [], 'IDA & IBRD total': [], 'IDA total': [
+        20
+    ], 'IDA blend': [
+        20
+    ], 'Indonesia': [], 'IDA only': [
+        20
+    ], 'Isle of Man': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'India': [
+        20
+    ], 'Not classified': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Ireland': [], 'Iran, Islamic Rep.': [
+        19,
+        20
+    ], 'Iraq': [], 'Iceland': [], 'Israel': [], 'Italy': [], 'Jamaica': [
+        20
+    ], 'Jordan': [], 'Japan': [], 'Kazakhstan': [
+        20
+    ], 'Kenya': [], 'Kyrgyz Republic': [
+        20
+    ], 'Cambodia': [], 'Kiribati': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        19,
+        20
+    ], 'St. Kitts and Nevis': [], 'Korea, Rep.': [], 'Kuwait': [], 'Latin America & Caribbean (excluding high income)': [], 'Lao PDR': [], 'Lebanon': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ], 'Liberia': [
+        0,
+        18,
+        19,
+        20
+    ], 'Libya': [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'St. Lucia': [
+        20
+    ], 'Latin America & Caribbean': [], 'Least developed countries: UN classification': [
+        20
+    ], 'Low income': [
+        20
+    ], 'Liechtenstein': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Sri Lanka': [
+        20
+    ], 'Lower middle income': [
+        20
+    ], 'Low & middle income': [], 'Lesotho': [], 'Late-demographic dividend': [], 'Lithuania': [], 'Luxembourg': [], 'Latvia': [], 'Macao SAR, China': [
+        20
+    ], 'St. Martin (French part)': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Morocco': [], 'Monaco': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Moldova': [], 'Madagascar': [
+        20
+    ], 'Maldives': [], 'Middle East & North Africa': [], 'Mexico': [], 'Marshall Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Middle income': [], 'North Macedonia': [
+        20
+    ], 'Mali': [], 'Malta': [], 'Myanmar': [
+        19,
+        20
+    ], 'Middle East & North Africa (excluding high income)': [], 'Montenegro': [
+        0,
+        1,
+        2,
+        3,
+        4
+    ], 'Mongolia': [], 'Northern Mariana Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Mozambique': [
+        0,
+        1,
+        2,
+        3,
+        20
+    ], 'Mauritania': [
+        20
+    ], 'Mauritius': [], 'Malawi': [
+        20
+    ], 'Malaysia': [], 'North America': [], 'Namibia': [
+        0,
+        1
+    ], 'New Caledonia': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Niger': [], 'Nigeria': [
+        19,
+        20
+    ], 'Nicaragua': [], 'Netherlands': [], 'Norway': [], 'Nepal': [], 'Nauru': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'New Zealand': [], 'OECD members': [], 'Oman': [], 'Other small states': [], 'Pakistan': [], 'Panama': [], 'Peru': [], 'Philippines': [
+        20
+    ], 'Palau': [
+        0,
+        20
+    ], 'Papua New Guinea': [], 'Poland': [], 'Pre-demographic dividend': [
+        20
+    ], 'Puerto Rico': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ],
+    "Korea, Dem. People's Rep.": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Portugal': [], 'Paraguay': [], 'West Bank and Gaza': [], 'Pacific island small states': [
+        19,
+        20
+    ], 'Post-demographic dividend': [], 'French Polynesia': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Qatar': [], 'Romania': [], 'Russian Federation': [], 'Rwanda': [], 'South Asia': [], 'Saudi Arabia': [], 'Sudan': [
+        20
+    ], 'Senegal': [
+        20
+    ], 'Singapore': [], 'Solomon Islands': [
+        20
+    ], 'Sierra Leone': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ], 'El Salvador': [], 'San Marino': [
+        0,
+        1,
+        2,
+        17,
+        18,
+        19,
+        20
+    ], 'Somalia': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Serbia': [], 'Sub-Saharan Africa (excluding high income)': [
+        20
+    ], 'South Sudan': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        20
+    ], 'Sub-Saharan Africa': [
+        20
+    ], 'Small states': [
+        20
+    ], 'Sao Tome and Principe': [
+        18,
+        19,
+        20
+    ], 'Suriname': [
+        17,
+        18
+    ], 'Slovak Republic': [], 'Slovenia': [], 'Sweden': [], 'Eswatini': [
+        19,
+        20
+    ], 'Sint Maarten (Dutch part)': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        17,
+        18,
+        19,
+        20
+    ], 'Seychelles': [
+        20
+    ], 'Syrian Arab Republic': [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Turks and Caicos Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Chad': [
+        20
+    ], 'East Asia & Pacific (IDA & IBRD countries)': [
+        20
+    ], 'Europe & Central Asia (IDA & IBRD countries)': [], 'Togo': [
+        20
+    ], 'Thailand': [], 'Tajikistan': [
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Turkmenistan': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Latin America & the Caribbean (IDA & IBRD countries)': [], 'Timor-Leste': [
+        0,
+        1,
+        19,
+        20
+    ], 'Middle East & North Africa (IDA & IBRD countries)': [], 'Tonga': [
+        20
+    ], 'South Asia (IDA & IBRD)': [], 'Sub-Saharan Africa (IDA & IBRD countries)': [
+        20
+    ], 'Trinidad and Tobago': [
+        20
+    ], 'Tunisia': [], 'Turkey': [], 'Tuvalu': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Tanzania': [
+        20
+    ], 'Uganda': [
+        20
+    ], 'Ukraine': [
+        20
+    ], 'Upper middle income': [], 'Uruguay': [], 'United States': [], 'Uzbekistan': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'St. Vincent and the Grenadines': [
+        20
+    ], 'Venezuela, RB': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'British Virgin Islands': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Virgin Islands (U.S.)': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'Vietnam': [], 'Vanuatu': [
+        19,
+        20
+    ], 'World': [], 'Samoa': [], 'Kosovo': [
+        0,
+        1
+    ], 'Yemen, Rep.': [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ], 'South Africa': [], 'Zambia': [
+        20
+    ], 'Zimbabwe': [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        20
+    ]
+}
